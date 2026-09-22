@@ -1,0 +1,6 @@
+{
+  "name": "Offer & Phishing Inspector",
+  "description": "Security scanner that parses job offer text or URLs, checks domain age and payment demand red flags, calculates a dynamic Scam Threat Index (0–100%), and includes a browser extension for real-time URL analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
